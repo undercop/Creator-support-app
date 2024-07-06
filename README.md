@@ -1,6 +1,5 @@
 # Get Me A Chai
 
-[https://fund-me-chai.vercel.app](get-me-a-chai)
 
 ## Project Description
 Get Me A Chai is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
@@ -35,13 +34,10 @@ GITHUB_SECRET=<your github secret>
 GOOGLE_ID=<your google id>
 GOOGLE_SECRET=<your google secret>
 ```
-## Installation
-To install this project into your local machine run this command
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/Advanced-Boy-Shreyash/Get-Me-A-Chai.git
-```
+
+
+
 ## Run Locally
 - Go into the folder you have installed this project and proceed with following procedure
 
